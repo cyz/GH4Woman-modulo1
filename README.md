@@ -1,7 +1,3 @@
-**Alteração no Laboratório:**
-Devido ao limite diário de adição de colaboradores aos repositórios GitHub, realizamos uma pequena alteração no laboratório para que todas possam realizar a atividade mesmo sem a permissão de colaborador, onde ao invés de clonar diretamente foi adicionado o passo de fork do repositório, onde o clone agora passa a ser do repositório criado pelo fork.
-Quem tem a permissão de colaborador e já finalizou a atividade utilizando o clone diretamente não é necessário realizar a atividade novamente!
-
 # Laboratório – Módulo 1: Introdução ao Git e GitHub
 
 Neste laboratório, vamos realizar algumas funções básicas do Git e GitHub. Ao concluir, você terá realizado operações de criação de arquivos e registro de mudanças, assim como submissão e disponibilização deste arquivo dentro de um repositório no GitHub e tudo isso em sua própria Branch. Vamos embarcar!
